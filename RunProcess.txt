@@ -1,0 +1,6 @@
+## RUN PROCESS
+
+1) search & open "spyder(major)" software
+2) select/ open main "app.py" & run green color "play/run file" button
+3) copy server link "http://127.0.0.1:5000" & paste and enter in any browser # don't use shortcut keys
+optional) step-1: login ( username  & password is " admin & admin " only
